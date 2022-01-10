@@ -16,4 +16,11 @@
 	<p>불 필요한 내용 추가</p>
 	<button>버튼 추가</button>
 </body>
+<script>
+	var arr = [];
+	arr.push(1);
+	arr.push(2);
+	arr.push(3);
+	arr.push(4);
+</script>
 </html>
